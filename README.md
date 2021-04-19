@@ -7,3 +7,5 @@ Calculate the number of least operations needed to reach from number X to number
  Available operations:
 - Multiply with 2
 - Subtract by 1
+
+# TODO
