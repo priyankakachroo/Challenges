@@ -1,4 +1,9 @@
-# Create a class object that store sthe remaining value and the step we are in
+###
+# 
+# 
+# How the hell branches work?
+# 
+# # Create a class object that store sthe remaining value and the step we are in
 class node:
   def __init__(self, values: list):
     self.start = values[0]

@@ -15,3 +15,5 @@ Calculate the number of least operations needed to reach from number X to number
 As seen on the above diagram the method that will use is a process of iterations throw the different steps needed from a node to give us the result we are looking for. For this specific example we see that the result 20 is reached after three iterations.
 
 # TODO
+
+Will try add something
