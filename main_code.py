@@ -1,4 +1,4 @@
-# Create a class object that store the remaing value and the step we are in
+# Create a class object that store sthe remaining value and the step we are in
 class node:
   def __init__(self, values: list):
     self.start = values[0]
