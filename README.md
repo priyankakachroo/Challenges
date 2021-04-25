@@ -12,7 +12,7 @@ available:
 Available operations:
 
 - Multiply with 2
-- Subtract by  1
+- Subtract by 1
 
 **Method used:**
 
